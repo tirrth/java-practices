@@ -1,0 +1,13 @@
+Price	  Total-Sale	    Ratings	User-Count(Rating)	Discount	Product-Name
+
+
+877	95	1	845	10	Seller-3-product-1
+1332	50	4.5	452	15	Seller-4-product-1
+788	88	4	310	5	Seller-5-product-1
+2040	34	2.5	189	25	Seller-6-product-1
+4574	16	3	63	34	Seller-7-product-1
+1818	76	3.5	159	25	Seller-8-product-1
+3753	61	4	469	84	Seller-9-product-1
+7267	48	2.5	448	91	Seller-2-product-2
+2320	26	2	768	32	Seller-2-product-3
+1958	98	988	42	32	Seller-2-product-4

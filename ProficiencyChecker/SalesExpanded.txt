@@ -1,0 +1,3201 @@
+Number	  Sale	    Salesman
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson   
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson   
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson   
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson   
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson   
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson   
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson   
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson     
+   20     61.80    John Adams              
+   19      0.35    William H. Harrison      
+   18     26.16    George Washington        
+   16    115.24    Andrew Jackson           
+   24     20.13    James Madison            
+   16     90.76    James Madison            
+   20      0.05    George Washington        
+   22    120.81    James Madison            
+   12    102.56    Thomas Jefferson         
+    9     80.08    Martin Van Buren         
+    7     53.32    Thomas Jefferson         
+   22      2.50    James K. Polk            
+   17     64.64    Andrew Jackson           
+    9     62.07    Martin Van Buren         
+    5     69.55    William H. Harrison      
+   22    107.17    James Monroe             
+   16     37.88    James Monroe             
+    2     59.35    Andrew Jackson           
+   24    117.67    Martin Van Buren         
+    8     30.64    John Adams               
+    4     95.87    James Madison            
+   24     22.27    William H. Harrison      
+   24     21.21    Thomas Jefferson         
+   12    121.61    John Tyler               
+   23    100.03    James Monroe             
+   17     95.21    John Adams               
+   10    114.23    William H. Harrison      
+   20     24.61    Andrew Jackson           
+   13    106.88    John Adams               
+    2    104.80    John Quincy Adams        
+    9    118.30    Thomas Jefferson         
+   10     24.93    James Madison            
+   23    114.45    Andrew Jackson           
+   11      8.17    William H. Harrison      
+   10     91.81    George Washington        
+   21     91.12    John Tyler               
+   18    119.54    John Adams               
+   20     52.95    John Adams               
+    6     56.50    Thomas Jefferson         
+    5     61.95    William H. Harrison      
+   19    101.36    John Tyler               
+   12     20.02    William H. Harrison      
+   11     70.85    Martin Van Buren         
+   25     18.12    James Monroe             
+   15     15.00    James Monroe             
+    8     19.92    George Washington        
+    9     72.28    Martin Van Buren         
+   24     16.35    William H. Harrison      
+   23     45.31    John Quincy Adams        
+   12     18.79    Martin Van Buren         
+    8    123.44    George Washington        
+   25     42.77    George Washington        
+   22    112.87    James Madison            
+    8     80.47    John Quincy Adams        
+   11     23.18    James K. Polk            
+    1     15.90    James K. Polk            
+    2     64.72    James K. Polk            
+   14    102.63    William H. Harrison      
+    7     80.15    George Washington        
+    7     59.59    Thomas Jefferson         
+   15    121.78    James Madison            
+    8     96.28    James Monroe             
+    9     70.19    James Madison            
+   16     75.63    James Monroe             
+   15    119.39    Martin Van Buren         
+   20     60.04    William H. Harrison      
+   11      9.70    John Quincy Adams        
+   25    121.98    John Tyler               
+    5    115.10    Andrew Jackson           
+   13    108.38    Thomas Jefferson         
+   18    123.99    Thomas Jefferson         
+    7    122.46    George Washington        
+   14     50.70    George Washington        
+   14    100.58    James Madison            
+    3     23.68    John Adams               
+   23    121.26    George Washington        
+    1     91.88    John Quincy Adams        
+    2     86.19    James K. Polk            
+   16    122.85    Thomas Jefferson         
+    8     26.27    James Monroe             
+   14     29.84    James Monroe             
+    5     56.21    James Madison            
+    2    114.90    James K. Polk            
+   25     58.76    George Washington        
+    2     89.27    George Washington        
+    3     19.05    James Monroe             
+   15    116.30    George Washington        
+   20     68.52    John Tyler               
+   15     21.35    Andrew Jackson           
+    7     54.81    George Washington        
+    2     19.01    Andrew Jackson           
+   16    107.88    James Monroe             
+   19     94.09    William H. Harrison      
+   18    117.30    John Adams               
+   17     35.01    George Washington        
+    1     60.88    William H. Harrison      
+   13     24.86    John Tyler               
+    5     73.41    Thomas Jefferson         
+   22    120.50    James K. Polk            
+   12     68.87    Andrew Jackson           

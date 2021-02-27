@@ -1,0 +1,16 @@
+Apples
+A
+10 
+10.25
+Banana
+B
+15 
+4.56
+Mango
+C
+3 
+2.05
+Grapes
+A
+8 
+9.55

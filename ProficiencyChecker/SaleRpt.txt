@@ -1,0 +1,22 @@
+
+   Person                           Quantity            Sale               Total
+***********************************************************************************
+   George Washington                  18               26.16              470.88
+   George Washington                  20                0.05                1.00
+   George Washington                  10               91.81              918.10
+   George Washington                   8               19.92              159.36
+   George Washington                   8              123.44              987.52
+   George Washington                  25               42.77             1069.25
+   George Washington                   7               80.15              561.05
+   George Washington                   7              122.46              857.22
+   George Washington                  14               50.70              709.80
+   George Washington                  23              121.26             2788.98
+   George Washington                  25               58.76             1469.00
+   George Washington                   2               89.27              178.54
+   George Washington                  15              116.30             1744.50
+   George Washington                   7               54.81              383.67
+   George Washington                  17               35.01              595.17
+***********************************************************************************
+                                     206                                12894.04
+***********************************************************************************
+The person with the smallest total ($ 2094.07) was: John Quincy Adams

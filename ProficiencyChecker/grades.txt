@@ -1,0 +1,30 @@
+      Name                   Exam 1    Exam 2
+George Washington              90.1      62.6
+John Adams                     58.2      66.4
+Thomas Jefferson               52.8      51.2
+James Madison                  76.1      95.8
+James Monroe                   61.7      70.1
+John Quincy Adams              95.8      57.4
+Andrew Jackson                 75.2      79.6
+Martin Van Buren               97.9      90.2
+William H. Harrison            69.0      98.9
+John Tyler                     79.7      65.4
+James K. Polk                  94.0      89.6
+Zachary Taylor                 57.5      76.2
+Millard Fillmore               78.9      64.8
+Franklin Pierce                70.0      56.1
+James Buchanan                 68.0      50.7
+Abraham Lincoln                72.8      91.8
+Andrew Johnson                 66.1      50.7
+Ulysses S. Grant               68.8      81.1
+Rutherford B. Hayes            71.9      93.6
+James A. Garfield              54.6      97.4
+Chester A. Arthur              61.5      79.2
+Grover Cleveland               53.7      85.4
+Benjamin Harrison              83.1      59.2
+Grover Cleveland               86.7      64.3
+William McKinley               79.3      59.5
+Thomas McKinley                52.8      98.9
+Thomas Mcasnley                52.8      91.2
+Thomas Mc23nley                52.8      91.2
+Tirth Patel                    97.9      90.2
